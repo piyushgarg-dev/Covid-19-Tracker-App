@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+# Screenshots
+![SS1](https://i.imgur.com/1suoU60.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
